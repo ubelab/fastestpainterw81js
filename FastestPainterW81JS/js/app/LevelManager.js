@@ -116,7 +116,7 @@
 	            	           		 contorno: "images/mostri/youngman_tr.png",
 	            	           		 colori: [[72, 72, 72], [214, 162, 107], [245, 199, 177]]//ok
 	            	           	 },
-	            	           	{
+	            	           	 {
 	            	           		 codice: 		"w1m9",
 	            	           		 nome: "Three Graces",
 	            	           		 immagine: "images/mostri/tre_grazie.png",
