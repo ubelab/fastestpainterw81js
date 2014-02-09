@@ -152,73 +152,66 @@
 	            	   livelli:	[
 	            	           	 {
 	            	           		 codice: 		"w2m1",
-	            	           		 nome:	 		"DRAKOR",
-	            	           		 immagine:		"images/mostri/w2_monster1.png",
-	            	           		 contorno:		"images/mostri/w2_monster1_tr.png",
-	            	           		 colori:  [[86, 184, 55],[43, 130, 153],[249, 58, 6],[250, 142, 56]]//ok
+	            	           		 nome: "Napoleon crossing the Alps",
+	            	           		 immagine: "images/mostri/napoleonealpi.png",
+	            	           		 contorno: "images/mostri/napoleonealpi_tr.png",
+	            	           		 colori: [[113, 149, 251], [235, 0, 0], [247, 223, 196], [137, 58, 23], [240, 234, 222]]//ok
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w2m2",
-	            	           		 nome:	 		"FLEMEENG",
-	            	           		 immagine:		"images/mostri/w2_monster2.png",
-	            	           		 contorno:		"images/mostri/w2_monster2_tr.png",
-	            	           		 colori:  [[205, 197, 0],[204, 124, 0],[204, 51, 0]]//ok
+	            	           		 nome: "Ficodindaio",
+	            	           		 immagine: "images/mostri/ficodindaio.png",
+	            	           		 contorno: "images/mostri/ficodindaio_tr.png",
+	            	           		 colori: [[255, 139, 46], [255, 215, 167], [187, 119, 52], [223, 244, 249]]//ok
 	            	           	 },
 	            	           	{
 	            	           		 codice: 		"w2m3",
-	            	           		 nome:	 		"THYRASSUS",
-	            	           		 immagine:		"images/mostri/w2_monster3.png",
-	            	           		 contorno:		"images/mostri/w2_monster3_tr.png",
-	            	           		 colori:  [[161, 178, 98],[178, 118, 98],[111, 124, 162]]//ok
+	            	           		 nome: "The adolescent Bacchus",
+	            	           		 immagine: "images/mostri/baccogiovane.png",
+	            	           		 contorno: "images/mostri/baccogiovane_tr.png",
+	            	           		 colori: [[251, 229, 185], [220, 241, 243], [172, 195, 126]]//ok
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w2m4",
-	            	           		 nome:	 		"BECOURNS",
-	            	           		 immagine:		"images/mostri/w2_monster4.png",
-	            	           		 contorno:		"images/mostri/w2_monster4_tr.png",
-	            	           		 colori:  [[107, 129, 148],[217, 224, 33],[221, 153, 33],[145, 95, 7]]//ok
+	            	           		 nome: "Medusa",
+	            	           		 immagine: "images/mostri/medusa.png",
+	            	           		 contorno: "images/mostri/medusa_tr.png",
+	            	           		 colori: [[220, 3, 49], [243, 214, 186], [130, 181, 89]]//ok
 	            	           	 },
 	            	           	{
 	            	           		 codice: 		"w2m5",
-	            	           		 nome:	 		"EGGY BRID",
-	            	           		 immagine:		"images/mostri/w2_monster5.png",
-	            	           		 contorno:		"images/mostri/w2_monster5_tr.png",
-	            	           		 colori:  [[150, 86, 120],[150, 176, 215],[221, 179, 124],[247, 229, 169]]//ok
+	            	           		 nome: "Venus of Urbino",
+	            	           		 immagine: "images/mostri/venere_urbino.png",
+	            	           		 contorno: "images/mostri/venere_urbino_tr.png",
+	            	           		 colori: [[239, 203, 152], [221, 144, 160], [224, 244, 246], [230, 111, 14]]//ok
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w2m6",
-	            	           		 nome:	 		"TORCINUS",
-	            	           		 immagine:		"images/mostri/w2_monster6.png",
-	            	           		 contorno:		"images/mostri/w2_monster6_tr.png",
-	            	           		 colori:  [[213, 216, 122],[226, 122, 237],[114, 142, 72]]//ok
-	            	           	 },
-	            	           	{
-	            	           		 codice: 		"w2m7",
-	            	           		 nome:	 		"PIGGOON",
-	            	           		 immagine:		"images/mostri/w2_monster7.png",
-	            	           		 contorno:		"images/mostri/w2_monster7_tr.png",
-	            	           		 colori:  [[154, 116, 188],[150, 196, 234],[188, 116, 154]]//ok
+	            	           		 nome: "Duchess of Urbino",
+	            	           		 immagine: "images/mostri/ritratto_duchessa_urbino.png",
+	            	           		 contorno: "images/mostri/ritratto_duchessa_urbino_tr.png",
+	            	           		 colori: [[248, 231, 208], [154, 151, 148], [208, 149, 66]]//ok
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w2m8",
-	            	           		 nome:	 		"LACERD",
-	            	           		 immagine:		"images/mostri/w2_monster8.png",
-	            	           		 contorno:		"images/mostri/w2_monster8_tr.png",
-	            	           		 colori:  [[198, 193, 23],[167, 51, 63],[98, 99, 26]]//ok
+	            	           		 nome: "Boy bitten by a Lizard",
+	            	           		 immagine: "images/mostri/morsoramarro.png",
+	            	           		 contorno: "images/mostri/morsoramarro_tr.png",
+	            	           		 colori: [[160, 29, 51], [192, 236, 247], [121, 168, 100], [255, 222, 184], [130, 88, 14]]//ok
 	            	           	 },
 	            	           	{
 	            	           		 codice: 		"w2m9",
-	            	           		 nome:	 		"TRIBOOCH",
-	            	           		 immagine:		"images/mostri/w2_monster9.png",
-	            	           		 contorno:		"images/mostri/w2_monster9_tr.png",
-	            	           		 colori:  [[154,191,17],[124,133,163],[153,112,105]]//ok
+	            	           		 nome: "Madonna and Child with Saint John the Baptist",
+	            	           		 immagine: "images/mostri/giardiniera.png",
+	            	           		 contorno: "images/mostri/giardiniera_tr.png",
+	            	           		 colori: [[255, 222, 207], [231, 174, 0], [58, 90, 170], [212, 10, 10]]//ok
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w2m10",
-	            	           		 nome:	 		"HAMMERZ",
-	            	           		 immagine:		"images/mostri/w2_monster10.png",
-	            	           		 contorno:		"images/mostri/w2_monster10_tr.png",
-	            	           		 colori:  [[201,175,0],[87,150,180],[180,108,87]]//ok
+	            	           		 nome: "Dream of Santa Elena",
+	            	           		 immagine: "images/mostri/sogno_santelena.png",
+	            	           		 contorno: "images/mostri/sogno_santelena_tr.png",
+	            	           		 colori: [[236, 187, 17], [255, 99, 5], [240, 205, 177], [193, 147, 81]]//ok
 	            	           	 }
 	            	           	 ]
 	               },
@@ -234,73 +227,52 @@
 	            	   livelli:	[
 	            	           	 {
 	            	           		 codice: 		"w3m1",
-	            	           		 nome:	 		"SQUIWEE",
-	            	           		 immagine:		"images/mostri/w3_monster1.png",
-	            	           		 contorno:		"images/mostri/w3_monster1_tr.png",
-	            	           		 colori:  [[239, 221, 175],[186, 143, 185],[239, 191, 175],[103, 163, 117]]
-	            	           	 },
-	            	           	 {
-	            	           		 codice: 		"w3m2",
-	            	           		 nome:	 		"KU",
-	            	           		 immagine:		"images/mostri/w3_monster2.png",
-	            	           		 contorno:		"images/mostri/w3_monster2_tr.png",
-	            	           		 colori:  [[149, 187, 206],[192, 166, 160],[214, 155, 112],[93, 103, 110]]
+	            	           		 nome: "Van Gogh portrait",
+	            	           		 immagine: "images/mostri/ritratto_van_gogh.png",
+	            	           		 contorno: "images/mostri/ritratto_van_gogh_tr.png",
+	            	           		 colori: [[116, 150, 188], [250, 156, 23], [254, 236, 205]]
 	            	           	 },
 	            	           	{
 	            	           		 codice: 		"w3m3",
-	            	           		 nome:	 		"BULOS",
-	            	           		 immagine:		"images/mostri/w3_monster3.png",
-	            	           		 contorno:		"images/mostri/w3_monster3_tr.png",
-	            	           		 colori:  [[237, 54, 32],[199, 148, 85],[76, 131, 214]]
+	            	           		 nome: "Eleanor of Toledo",
+	            	           		 immagine: "images/mostri/eleonora_toledo.png",
+	            	           		 contorno: "images/mostri/eleonora_toledo_tr.png",
+	            	           		 colori: [[214, 168, 78], [145, 170, 199], [251, 230, 212], [223, 6, 27], [113, 88, 39]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w3m4",
-	            	           		 nome:	 		"GORZILOF",
-	            	           		 immagine:		"images/mostri/w3_monster4.png",
-	            	           		 contorno:		"images/mostri/w3_monster4_tr.png",
-	            	           		 colori:  [[199, 109, 201],[196, 200, 156],[216, 111, 111],[210, 169, 156]]
+	            	           		 nome: "John the Baptist",
+	            	           		 immagine: "images/mostri/john_the_batist.png",
+	            	           		 contorno: "images/mostri/john_the_batist_tr.png",
+	            	           		 colori: [[183, 151, 113], [247, 207, 207], [188, 107, 53]]
 	            	           	 },
 	            	           	{
 	            	           		 codice: 		"w3m5",
-	            	           		 nome:	 		"RATSCURBAT",
-	            	           		 immagine:		"images/mostri/w3_monster5.png",
-	            	           		 contorno:		"images/mostri/w3_monster5_tr.png",
-	            	           		 colori:  [[189, 204, 212],[219, 168, 152],[121, 101, 132],[143, 119, 80]]
+	            	           		 nome: "The supper at Emmaus",
+	            	           		 immagine: "images/mostri/supperemmaus.png",
+	            	           		 contorno: "images/mostri/supperemmaus_tr.png",
+	            	           		 colori: [[144, 163, 55], [189, 16, 20], [146, 93, 36], [253, 225, 203]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w3m6",
-	            	           		 nome:	 		"RHOARG",
-	            	           		 immagine:		"images/mostri/w3_monster6.png",
-	            	           		 contorno:		"images/mostri/w3_monster6_tr.png",
-	            	           		 colori:  [[244, 110, 0],[121, 63, 63],[98, 69, 146]]
-	            	           	 },
-	            	           	{
-	            	           		 codice: 		"w3m7",
-	            	           		 nome:	 		"MOOFLES",
-	            	           		 immagine:		"images/mostri/w3_monster7.png",
-	            	           		 contorno:		"images/mostri/w3_monster7_tr.png",
-	            	           		 colori:  [[202, 130, 95],[150, 52, 5],[14, 206, 226],[226, 85, 14]]
+	            	           		 nome: "Rembrandt Portrait",
+	            	           		 immagine: "images/mostri/autoritrattorembrandth.png",
+	            	           		 contorno: "images/mostri/autoritrattorembrandth_tr.png",
+	            	           		 colori: [[138, 111, 80], [208, 148, 77], [250, 237, 207], [130, 118, 144]]
 	            	           	 },
 	            	           	 {
-	            	           		 codice: 		"w3m8",
-	            	           		 nome:	 		"HU-JU-KOO",
-	            	           		 immagine:		"images/mostri/w3_monster8.png",
-	            	           		 contorno:		"images/mostri/w3_monster8_tr.png",
-	            	           		 colori:  [[229, 166, 244],[18, 185, 136],[218, 88, 18],[18, 118, 177],[219, 148, 18]]
-	            	           	 },
-	            	           	{
-	            	           		 codice: 		"w3m9",
-	            	           		 nome:	 		"SHEEBAR",
-	            	           		 immagine:		"images/mostri/w3_monster9.png",
-	            	           		 contorno:		"images/mostri/w3_monster9_tr.png",
-	            	           		 colori:  [[41, 171, 226],[134, 129, 134],[231, 135, 88]]
+	            	           	     codice: "w3m10",
+	            	           	     nome: "Mary Magdalene",
+	            	           	     immagine: "images/mostri/maria_maddalena.png",
+	            	           	     contorno: "images/mostri/maria_maddalena_tr.png",
+	            	           	     colori: [[209, 206, 197], [214, 0, 0], [249, 226, 213]]
 	            	           	 },
 	            	           	 {
-	            	           		 codice: 		"w3m10",
-	            	           		 nome:	 		"BLUSSQUARE",
-	            	           		 immagine:		"images/mostri/w3_monster10.png",
-	            	           		 contorno:		"images/mostri/w3_monster10_tr.png",
-	            	           		 colori:  [[171, 168, 171],[87, 150, 180],[157, 120, 110]]
+	            	           	     codice: "w3m10",
+	            	           	     nome: "Salome the Daughter of Herodias",
+	            	           	     immagine: "images/mostri/figlia_herodias.png",
+	            	           	     contorno: "images/mostri/figlia_herodias_tr.png",
+	            	           	     colori: [[86, 119, 227], [223, 240, 201], [240, 205, 177], [156, 106, 57], [195, 59, 88]]
 	            	           	 }
 	            	           	 ]
 	               },
@@ -316,73 +288,73 @@
 	            	   livelli:	[
 	            	           	 {
 	            	           		 codice: 		"w4m1",
-	            	           		 nome:	 		"MONOJUMP",
-	            	           		 immagine:		"images/mostri/w4_monster1.png",
-	            	           		 contorno:		"images/mostri/w4_monster1_tr.png",
-	            	           		 colori:  [[177, 198, 229],[201, 148, 174],[255, 204, 77]]
+	            	           		 nome: "Girl with a Pearl Earring",
+	            	           		 immagine: "images/mostri/ragazzaorecchinoperla.png",
+	            	           		 contorno: "images/mostri/ragazzaorecchinoperla_tr.png",
+	            	           		 colori: [[245, 176, 55], [248, 213, 185], [55, 133, 193], [245, 55, 91]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w4m2",
-	            	           		 nome:	 		"SPAZZINUS",
-	            	           		 immagine:		"images/mostri/w4_monster2.png",
-	            	           		 contorno:		"images/mostri/w4_monster2_tr.png",
-	            	           		 colori:  [[226, 199, 10],[73, 79, 98],[231, 83, 33]]
+	            	           		 nome: "Johann Friedrich",
+	            	           		 immagine: "images/mostri/johannfriedrich.png",
+	            	           		 contorno: "images/mostri/johannfriedrich_tr.png",
+	            	           		 colori: [[157, 188, 32], [254, 221, 182], [187, 106, 62], [216, 217, 210]]
 	            	           	 },
 	            	           	{
 	            	           		 codice: 		"w4m3",
-	            	           		 nome:	 		"PENTALAMP",
-	            	           		 immagine:		"images/mostri/w4_monster3.png",
-	            	           		 contorno:		"images/mostri/w4_monster3_tr.png",
-	            	           		 colori:  [[204, 62, 23],[126, 40, 12],[135, 213, 45]]
-	            	           	 },
-	            	           	 {
-	            	           		 codice: 		"w4m4",
-	            	           		 nome:	 		"OVOROBO",
-	            	           		 immagine:		"images/mostri/w4_monster4.png",
-	            	           		 contorno:		"images/mostri/w4_monster4_tr.png",
-	            	           		 colori:  [[191, 209, 134],[54, 92, 26],[121, 86, 134],[236, 80, 107],[158, 86, 62]]
-	            	           	 },
+	            	           		 nome: "Sistine Madonna angels",
+	            	           		 immagine: "images/mostri/angeliraffaello.png",
+	            	           		 contorno: "images/mostri/angeliraffaello_tr.png",
+	            	           		 colori: [[254, 228, 195], [204, 100, 43], [210, 149, 77]]
+	            	           	},
 	            	           	{
 	            	           		 codice: 		"w4m5",
-	            	           		 nome:	 		"TRIEYES",
-	            	           		 immagine:		"images/mostri/w4_monster5.png",
-	            	           		 contorno:		"images/mostri/w4_monster5_tr.png",
-	            	           		 colori:  [[255, 95, 6],[70, 224, 224]]
+	            	           		 nome: "The Starry Night",
+	            	           		 immagine: "images/mostri/starrynight.png",
+	            	           		 contorno: "images/mostri/starrynight_tr.png",
+	            	           		 colori: [[58, 97, 184], [127, 157, 225], [241, 189, 31], [51, 111, 10]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w4m6",
-	            	           		 nome:	 		"PINKYMUM",
-	            	           		 immagine:		"images/mostri/w4_monster6.png",
-	            	           		 contorno:		"images/mostri/w4_monster6_tr.png",
-	            	           		 colori:  [[250, 161, 255],[148, 204, 255],[112, 115, 161],[207, 255, 135]]
+	            	           		 nome: "Sleeping Gipsy",
+	            	           		 immagine: "images/mostri/sleeping_gipsy.png",
+	            	           		 contorno: "images/mostri/sleeping_gipsy_tr.png",
+	            	           		 colori: [[163, 105, 30], [212, 155, 81], [213, 241, 242]]
 	            	           	 },
 	            	           	{
 	            	           		 codice: 		"w4m7",
-	            	           		 nome:	 		"GOZZUS",
-	            	           		 immagine:		"images/mostri/w4_monster7.png",
-	            	           		 contorno:		"images/mostri/w4_monster7_tr.png",
-	            	           		 colori:  [[165, 175, 181],[155, 67, 48],[64, 121, 155]]
+	            	           		 nome: "Anna Borowska",
+	            	           		 immagine: "images/mostri/annazborowska.png",
+	            	           		 contorno: "images/mostri/annazborowska_tr.png",
+	            	           		 colori: [[138, 6, 13], [29, 40, 72], [255, 219, 219], [59, 24, 12]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w4m8",
-	            	           		 nome:	 		"ROLLINO",
-	            	           		 immagine:		"images/mostri/w4_monster8.png",
-	            	           		 contorno:		"images/mostri/w4_monster8_tr.png",
-	            	           		 colori:  [[244, 198, 3],[56, 56, 56],[244, 97, 3],[125, 149, 168]]
+	            	           		 nome: "Les Demoiselles d'Avignon",
+	            	           		 immagine: "images/mostri/demoiselleavignon.png",
+	            	           		 contorno: "images/mostri/demoiselleavignon_tr.png",
+	            	           		 colori: [[250, 225, 199], [146, 90, 30]]
 	            	           	 },
 	            	           	{
 	            	           		 codice: 		"w4m9",
-	            	           		 nome:	 		"ROBOMEDUSA",
-	            	           		 immagine:		"images/mostri/w4_monster9.png",
-	            	           		 contorno:		"images/mostri/w4_monster9_tr.png",
-	            	           		 colori:  [[78, 198, 34],[77, 142, 175],[198, 75, 34]]
+	            	           		 nome: "Juan de Pareja",
+	            	           		 immagine: "images/mostri/juanpareja.png",
+	            	           		 contorno: "images/mostri/juanpareja_tr.png",
+	            	           		 colori: [[139, 142, 109], [233, 233, 233], [227, 165, 115], [54, 53, 53]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w4m10",
-	            	           		 nome:	 		"CRAZYKREST",
-	            	           		 immagine:		"images/mostri/w4_monster10.png",
-	            	           		 contorno:		"images/mostri/w4_monster10_tr.png",
-	            	           		 colori:  [[95, 198, 211],[211, 194, 116],[160, 69, 87]]
+	            	           		 nome: "Souvenir de vojage",
+	            	           		 immagine: "images/mostri/souvenirvojage.png",
+	            	           		 contorno: "images/mostri/souvenirvojage_tr.png",
+	            	           		 colori: [[140, 214, 91], [93, 162, 96], [100, 190, 216]]
+	            	           	 },
+	            	           	 {
+	            	           	     codice: "w4m10",
+	            	           	     nome: "Man in bowler hat",
+	            	           	     immagine: "images/mostri/uomobombetta.png",
+	            	           	     contorno: "images/mostri/uomobombetta_tr.png",
+	            	           	     colori: [[91, 91, 91], [255, 61, 1], [253, 224, 184], [47, 221, 7]]
 	            	           	 }
 	            	           	 ]
 	               },
@@ -398,73 +370,73 @@
 	            	   livelli:	[
 	            	           	 {
 	            	           		 codice: 		"w5m1",
-	            	           		 nome:	 		"GRASSGNAM",
-	            	           		 immagine:		"images/mostri/w5_monster1.png",
-	            	           		 contorno:		"images/mostri/w5_monster1_tr.png",
-	            	           		 colori:  [[79, 133, 213],[132, 216, 75],[247, 25, 115]]
+	            	           		 nome:	 		"The Scream",
+	            	           		 immagine:		"images/mostri/urlo.png",
+	            	           		 contorno:		"images/mostri/urlo_tr.png",
+	            	           		 colori:  [[203, 192, 158],[104, 97, 97],[92, 131, 174],[251, 122, 71]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w5m2",
-	            	           		 nome:	 		"BOMBOPINK",
-	            	           		 immagine:		"images/mostri/w5_monster2.png",
-	            	           		 contorno:		"images/mostri/w5_monster2_tr.png",
-	            	           		 colori:  [[117, 193, 58],[205, 177, 61]]
+	            	           		 nome:	 		"Man with a Roman Medal",
+	            	           		 immagine:		"images/mostri/bernardobrembo.png",
+	            	           		 contorno:		"images/mostri/bernardobrembo_tr.png",
+	            	           		 colori:  [[92, 92, 92],[211, 186, 111],[255, 224, 199]]
 	            	           	 },
 	            	           	{
 	            	           		 codice: 		"w5m3",
-	            	           		 nome:	 		"SQUALLOR",
-	            	           		 immagine:		"images/mostri/w5_monster3.png",
-	            	           		 contorno:		"images/mostri/w5_monster3_tr.png",
-	            	           		 colori:  [[216, 97, 219],[251, 63, 201],[176, 139, 251]]
+	            	           		 nome:	 		"The Death of Marat",
+	            	           		 immagine:		"images/mostri/marat.png",
+	            	           		 contorno:		"images/mostri/marat_tr.png",
+	            	           		 colori:  [[129, 129, 129],[193, 152, 89],[248, 225, 189]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w5m4",
-	            	           		 nome:	 		"YELLOWDOG",
-	            	           		 immagine:		"images/mostri/w5_monster4.png",
-	            	           		 contorno:		"images/mostri/w5_monster4_tr.png",
-	            	           		 colori:  [[82, 199, 239],[239, 121, 82],[213, 151, 0]]
-	            	           	 },
-	            	           	{
-	            	           		 codice: 		"w5m5",
-	            	           		 nome:	 		"WOODYBRIZ",
-	            	           		 immagine:		"images/mostri/w5_monster5.png",
-	            	           		 contorno:		"images/mostri/w5_monster5_tr.png",
-	            	           		 colori:  [[242, 186, 28],[165, 83, 3],[165, 97, 160]]
+	            	           		 nome:	 		"Mery Laurent",
+	            	           		 immagine:		"images/mostri/mery_laurent.png",
+	            	           		 contorno:		"images/mostri/mery_laurent_tr.png",
+	            	           		 colori:  [[95, 96, 132],[255, 238, 245],[252, 155, 1],[129, 73, 39]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w5m6",
-	            	           		 nome:	 		"AUGH",
-	            	           		 immagine:		"images/mostri/w5_monster6.png",
-	            	           		 contorno:		"images/mostri/w5_monster6_tr.png",
-	            	           		 colori:  [[206, 118, 74],[129, 62, 34],[101, 130, 34]]
+	            	           		 nome:	 		"Frida",
+	            	           		 immagine:		"images/mostri/frida.png",
+	            	           		 contorno:		"images/mostri/frida_tr.png",
+	            	           		 colori:  [[192, 28, 63],[254, 228, 197],[82, 82, 82]]
 	            	           	 },
 	            	           	{
 	            	           		 codice: 		"w5m7",
-	            	           		 nome:	 		"HOUSETIZ",
-	            	           		 immagine:		"images/mostri/w5_monster7.png",
-	            	           		 contorno:		"images/mostri/w5_monster7_tr.png",
-	            	           		 colori:  [[188, 94, 164],[111, 67, 100],[134, 196, 193],[206, 173, 162]]
+	            	           		 nome:	 		"American Gothic",
+	            	           		 immagine:		"images/mostri/america_gothic.png",
+	            	           		 contorno:		"images/mostri/america_gothic_tr.png",
+	            	           		 colori:  [[108, 108, 108],[157, 63, 72],[235, 245, 251],[255, 219, 201],[218, 174, 21]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w5m8",
-	            	           		 nome:	 		"AHBELLO",
-	            	           		 immagine:		"images/mostri/w5_monster8.png",
-	            	           		 contorno:		"images/mostri/w5_monster8_tr.png",
-	            	           		 colori:  [[209, 137, 21],[217, 190, 65],[134, 103, 96],[209, 68, 21]]
+	            	           		 nome:	 		"Jean Antoine Watteau",
+	            	           		 immagine:		"images/mostri/watteau.png",
+	            	           		 contorno:		"images/mostri/watteau_tr.png",
+	            	           		 colori:  [[190, 190, 190],[169, 117, 50],[255, 238, 224]]
 	            	           	 },
 	            	           	{
 	            	           		 codice: 		"w5m9",
-	            	           		 nome:	 		"TRITIGER",
-	            	           		 immagine:		"images/mostri/w5_monster9.png",
-	            	           		 contorno:		"images/mostri/w5_monster9_tr.png",
-	            	           		 colori:  [[232, 86, 86],[112, 170, 124],[54, 88, 112]]
+	            	           		 nome:	 		"The Kiss",
+	            	           		 immagine:		"images/mostri/bacio_klimt.png",
+	            	           		 contorno:		"images/mostri/bacio_klimt_tr.png",
+	            	           		 colori:  [[0, 242, 11],[255, 222, 0],[252, 230, 230],[71, 71, 71],[238, 118, 0]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"w5m10",
-	            	           		 nome:	 		"SGNAUZ",
-	            	           		 immagine:		"images/mostri/w5_monster10.png",
-	            	           		 contorno:		"images/mostri/w5_monster10_tr.png",
-	            	           		 colori:  [[242, 104, 39],[79, 86, 229],[127, 32, 0],[242, 221, 156]]
+	            	           		 nome:	 		"Monet Portrait",
+	            	           		 immagine:		"images/mostri/ritratto_monet.png",
+	            	           		 contorno:		"images/mostri/ritratto_monet_tr.png",
+	            	           		 colori:  [[41, 63, 132],[255, 228, 192],[148, 85, 2]]
+	            	           	 },
+	            	           	 {
+	            	           	     codice: 		"w5m10",
+	            	           	     nome:	 		"Tsunami",
+	            	           	     immagine:		"images/mostri/tsunami.png",
+	            	           	     contorno:		"images/mostri/tsunami_tr.png",
+	            	           	     colori:  [[112, 144, 235],[200, 165, 70]]
 	            	           	 }
 	            	           	 ]
 	               },
@@ -479,38 +451,38 @@
 	            	   livelli:	[
 	            	           	 {
 	            	           		 codice: 		"wbm1",
-	            	           		 nome:	 		"DRACULA",
-	            	           		 immagine:		"images/mostri/wb_monster1.png",
-	            	           		 contorno:		"images/mostri/wb_monster1_tr.png",
-	            	           		 colori:  [[53, 53, 68],[193, 0, 0],[255, 255, 255],[132, 103, 73]]
+	            	           		 nome:	 		"The Raft of the Medusa",
+	            	           		 immagine:		"images/mostri/zatteramedusa.png",
+	            	           		 contorno:		"images/mostri/zatteramedusa_tr.png",
+	            	           		 colori:  [[255, 215, 185],[221, 0, 5],[191, 108, 27],[170, 170, 170],[192, 229, 225]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"wbm2",
-	            	           		 nome:	 		"YETI",
-	            	           		 immagine:		"images/mostri/wb_monster2.png",
-	            	           		 contorno:		"images/mostri/wb_monster2_tr.png",
-	            	           		 colori:  [[77, 117, 140],[243,251,255],[252,167,196]]
+	            	           		 nome:	 		"Liberty Leading the People",
+	            	           		 immagine:		"images/mostri/libertapopolo.png",
+	            	           		 contorno:		"images/mostri/libertapopolo_tr.png",
+	            	           		 colori:  [[255, 0, 6],[40, 112, 211],[231, 204, 123],[255, 214, 200],[164, 92, 66]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"wbm3",
-	            	           		 nome:	 		"CENTAUR",
-	            	           		 immagine:		"images/mostri/wb_monster3.png",
-	            	           		 contorno:		"images/mostri/wb_monster3_tr.png",
-	            	           		 colori:  [[147,71,45],[249,192,192],[223,154,38]]
+	            	           		 nome:	 		"Oath of the Horatii",
+	            	           		 immagine:		"images/mostri/curiazi.png",
+	            	           		 contorno:		"images/mostri/curiazi_tr.png",
+	            	           		 colori:  [[230, 4, 4],[234, 234, 234],[89, 88, 143],[251, 227, 214],[187, 187, 193]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"wbm4",
-	            	           		 nome:	 		"NESSI",
-	            	           		 immagine:		"images/mostri/wb_monster4.png",
-	            	           		 contorno:		"images/mostri/wb_monster4_tr.png",
-	            	           		 colori:  [[88, 149, 204],[99,158,151],[114,128,168],[77,94,87]]
+	            	           		 nome:	 		"The Fourth Estate",
+	            	           		 immagine:		"images/mostri/quarto_stato.png",
+	            	           		 contorno:		"images/mostri/quarto_stato_tr.png",
+	            	           		 colori:  [[136, 85, 31],[207, 155, 100],[178, 67, 38],[242, 211, 178]]
 	            	           	 },
 	            	           	 {
 	            	           		 codice: 		"wbm5",
-	            	           		 nome:	 		"HIPPOGRIPH",
-	            	           		 immagine:		"images/mostri/wb_monster5.png",
-	            	           		 contorno:		"images/mostri/wb_monster5_tr.png",
-	            	           		 colori:  [[54, 59,88],[216,216,216],[255,145,0],[164,96,73]]
+	            	           		 nome:	 		"Persistence Memory",
+	            	           		 immagine:		"images/mostri/persistence_memory.png",
+	            	           		 contorno:		"images/mostri/persistence_memory_tr.png",
+	            	           		 colori:  [[200, 190, 152],[239, 210, 19],[150, 188, 235]]
 	            	           	 }
 	            	           	 ]
 	               }

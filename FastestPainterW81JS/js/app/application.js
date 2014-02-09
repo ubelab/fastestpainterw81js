@@ -3,5 +3,5 @@
 //tra cui il manager del canvas, dello storage dati e altro...
 var INVENKTION = {
 
-		debug: true
+		debug: false
 };
