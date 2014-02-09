@@ -49,7 +49,10 @@
     <RequiredPlatformVersion>8.1</RequiredPlatformVersion>
     <MinimumVisualStudioVersion>12.0</MinimumVisualStudioVersion>
     <DefaultLanguage>en-US</DefaultLanguage>
-    <PackageCertificateKeyFile>FastestPainterW81JS_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateKeyFile>FastestPainterW81JS_StoreKey.pfx</PackageCertificateKeyFile>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
+    <PackageCertificateThumbprint>9BEF4AFF4E7E11513324C4790BCB4F6819CE2DAF</PackageCertificateThumbprint>
   </PropertyGroup>
   <ItemGroup>
     <AppxManifest Include="package.appxmanifest">
@@ -99,6 +102,7 @@
     <Content Include="css\swipeview.css" />
     <Content Include="default.html" />
     <Content Include="default_BCK.html" />
+    <None Include="FastestPainterW81JS_StoreKey.pfx" />
     <Content Include="font\Apostrophic Labs License.txt" />
     <Content Include="font\edo-webfont.eot" />
     <Content Include="font\edo-webfont.svg" />
@@ -485,6 +489,7 @@
     <Content Include="js\libs\swipeview.js" />
     <Content Include="js\main.js" />
     <Content Include="js\script.js" />
+    <None Include="Package.StoreAssociation.xml" />
     <Content Include="WebContent\README.txt" />
     <None Include="FastestPainterW81JS_TemporaryKey.pfx" />
   </ItemGroup>
