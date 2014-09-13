@@ -63,7 +63,7 @@
 		if(!isMobile && !paint) return;//mub per debug con mouse
 		
 		if (!paintPointer) return;
-		console.log("drawtouch");
+		//console.log("drawtouch");
 		if (x || y) 
 		{
 			if ((prev_x === -1) || prev_y === -1) 
