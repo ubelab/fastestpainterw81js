@@ -15,23 +15,35 @@
 		 playSound : function(className) {
 			 if(INVENKTION.SoundManager.isAudioOn()) {//scelta utente audio on off
 				 var sound = document.querySelector("audio."+className);
-				 if(sound) {
-					 sound.play();
+				 if (sound) {
+				     try {
+				         sound.play();
+				     } catch (err) {
+                         console.log("eccezione durante invocazione play sound");
+				     }
 				 }
 			 }
 		 },
 		 playBackgroundMusic : function() {
 			 if(INVENKTION.SoundManager.isAudioOn()) {//scelta utente audio on off
 				 var backgroundSound = document.querySelector("audio.background");
-				 if(backgroundSound) {
-					 backgroundSound.play();
+				 if (backgroundSound) {
+                     try {
+                         backgroundSound.play();
+                     } catch (err) {
+                         console.log("eccezione durante invocazione play sound background");
+                     }
 				 }
 			 }
 		 },
 		 stopBackgroundMusic : function() {
 			 var backgroundSound = document.querySelector("audio.background");
-			 if(backgroundSound) {
-				 backgroundSound.pause();
+			 if (backgroundSound) {
+                 try {
+                     backgroundSound.pause();
+                 } catch (err) {
+                     console.log("eccezione durante invocazione pause sound");
+                 }
 			 }
 		 },
 		 setAudio: function(onoff) {

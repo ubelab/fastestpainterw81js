@@ -18,7 +18,7 @@
       <m2:VisualElements DisplayName="Fastest Painter" Description="Fastest Painter" ForegroundText="light" BackgroundColor="#5086e1" Square150x150Logo="images\icon.png" Square30x30Logo="images\SmallLogo.png">
         <m2:DefaultTile ShortName="Fastest Painter" Wide310x150Logo="images\Wide310x150Logo.png" Square70x70Logo="assets\icon-126.png" DefaultSize="square150x150Logo" Square310x310Logo="assets\icon-558.png">
         </m2:DefaultTile>
-        <m2:SplashScreen Image="images\splashscreen.png" />
+        <m2:SplashScreen Image="assets\splashscreen_orizontal.png" />
         <m2:InitialRotationPreference>
           <m2:Rotation Preference="landscape" />
         </m2:InitialRotationPreference>

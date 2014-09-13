@@ -58,6 +58,7 @@
     <AppxManifest Include="package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <Content Include="css\agr.css" />
     <Content Include="default.html" />
     <Content Include="default_BCK.html" />
     <None Include="FastestPainterW81JS_StoreKey.pfx" />
