@@ -32,17 +32,20 @@
 	        console.log(document[visibilityState]);
 	
 	        switch (document[visibilityState]) {
-	        case "visible":
-	        	INVENKTION.SoundManager.playBackgroundMusic();
-	        	//Faccio ripartire se e solo se non è aperto un POPUP
-				if($('.MS_popUpContainer').css("display") != "block") {
-					 INVENKTION.TimerManager.resume();
-				}
+	            case "visible":
+	                setTimeout(function () {
+	                    INVENKTION.SoundManager.playBackgroundMusic();
+	                }, 1000);
+	        	
+	        	    //Faccio ripartire se e solo se non è aperto un POPUP
+				    if($('.MS_popUpContainer').css("display") != "block") {
+					     INVENKTION.TimerManager.resume();
+				    }
 	            break;
-	        case "hidden":
-	        	INVENKTION.SoundManager.stopBackgroundMusic();
-	        	INVENKTION.TimerManager.pause();
-	            break;
+	            case "hidden":
+	        	    INVENKTION.SoundManager.stopBackgroundMusic();
+	        	    INVENKTION.TimerManager.pause();
+	                break;
 	        }
 	});
 	

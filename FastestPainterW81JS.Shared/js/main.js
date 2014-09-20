@@ -39,7 +39,7 @@ var init = function () {
 		
     //
 	//Faccio partire la musica
-    INVENKTION.SoundManager.playBackgroundMusic();
+    //INVENKTION.SoundManager.playBackgroundMusic();
 
     //Centro in verticale la maschera
     var TOP = window.innerHeight / 2 - (350 / 2);
@@ -49,3 +49,13 @@ var init = function () {
     console.log("init() called");
 };
 $(document).bind('pageinit', init);
+
+//utility function sleep like
+function sleep(milliseconds) {
+    var start = new Date().getTime();
+    for (var i = 0; i < 1e7; i++) {
+        if ((new Date().getTime() - start) > milliseconds) {
+            break;
+        }
+    }
+}

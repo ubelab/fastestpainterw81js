@@ -28,11 +28,18 @@
 			 if(INVENKTION.SoundManager.isAudioOn()) {//scelta utente audio on off
 				 var backgroundSound = document.querySelector("audio.background");
 				 if (backgroundSound) {
-                     try {
-                         backgroundSound.play();
-                     } catch (err) {
-                         console.log("eccezione durante invocazione play sound background");
-                     }
+				     var cont = 0;
+				     while (cont < 4) {//fix bug primo avvio che non parte audio
+				         try {
+				             backgroundSound.play();
+                         } catch (err) {
+                             console.log("eccezione durante invocazione play sound background");
+                             cont++;
+                             sleep(1000);
+                             continue;
+                         }
+				         break;
+				     }
 				 }
 			 }
 		 },
